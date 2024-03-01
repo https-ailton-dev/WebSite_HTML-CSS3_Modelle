@@ -2,7 +2,17 @@ body{
     background:#d2d2c1 url('img/fundo.png');
     font: 16px Arial, Helvetica, sans-serif;
 }
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+
+}
 #principal{
-    border: 1px solid red;
     width: 900px;
+}
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
 }
